@@ -1,2 +1,2 @@
 # Capstone-Project-1-Online-Resume-Example
-Capstone project 1 for HTML
+Very basic online resume example using only HTML
